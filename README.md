@@ -12,7 +12,7 @@
     </td>
     <td valign="top" width="55%" style="padding-left: 30px;">
       
-### Hi, I'm 🌸 *Samia* 🌸
+### Hi, I'm 🌸 **Samia** 🌸
       
 I'm a CSE student who loves Space 🪐✨ and Nature 🪻🍃      
 <br/>
