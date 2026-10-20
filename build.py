@@ -87,7 +87,7 @@ def static(w):
        f'<rect x="6" y="60" width="{W-12}" height="4" fill="{NAVY}"/>',
        f'<rect x="18" y="76" width="{W-36}" height="310" fill="{NAVY}"/><rect x="24" y="82" width="{W-48}" height="298" fill="{BLUE}"/>']
     for x in (24,60,96): s.append(f'<rect x="{x}" y="20" width="26" height="26" fill="{NAVY}"/><rect x="{x+6}" y="26" width="14" height="14" fill="{WHITE}"/><rect x="{x+14}" y="32" width="6" height="8" fill="{BLUE}"/>')
-    s.append(text("WEATHER.APP",146,23,4,NAVY)); s.append(text("DHAKA",556,23,4,BLUE))
+    s.append(text("WEATHER.APP",146,23,4,NAVY)); s.append(text("CEREALKILLER<3",449,26,3,BLUE))
     for i in range(3): s.append(f'<rect x="748" y="{22+i*10}" width="34" height="5" fill="{NAVY}"/>')
     s.append(f'<path d="M708 22h22v22h-6v-8l-10 10-6-6 10-10h-10z" fill="{NAVY}"/>')
     s.append(text("FIND ME ON",560,110,5,NAVY,"c"))
