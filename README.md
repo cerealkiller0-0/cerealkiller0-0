@@ -1,7 +1,7 @@
 
 
    <p align="center">
-     <img src="welcome.gif" width="400" alt="welcome">
+     <img src="welcome.gif" width="800" alt="welcome">
    </p>
 
    <p align="left">
