@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="33b1a933-60ae-4e3a-9ea7-78bd98ba8e0e.gif" width="1200" height="250" style="border-radius: 50 px;" alt="header">
+  <img src="33b1a933-60ae-4e3a-9ea7-78bd98ba8e0e.gif" width="1200" height="200" style="border-radius: 50 px;" alt="header">
 </p>
 <p align="center">
   <img src="welcome-peony-light.png" width="400" height="150" style="border-radius: 50 px;" alt="welcome">
@@ -8,7 +8,7 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="middle" width="800">
+    <td valign="middle" width="45%">
       <img src="butterfly1.svg" width="100%" alt="Animated pink ASCII butterfly">
     </td>
     <td valign="top" width="55%" style="padding-left: 30 px;">
