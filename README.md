@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="eae8c5d7-61d5-4ad6-9ba6-704e2592427f.gif" width="1200" height="150" style="border-radius: 50 px;" alt="header">
+  <img src="3fca7a75-8d25-4183-9a48-7593055f5192.gif" width="1200" height="150" style="border-radius: 50 px;" alt="header">
 </p>
 <p align="center">
   <img src="welcome-peony-light.png" width="400" height="150" style="border-radius: 50 px;" alt="welcome">
