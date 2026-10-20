@@ -8,7 +8,7 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="middle" width="45%">
+    <td valign="middle" width="800">
       <img src="butterfly1.svg" width="100%" alt="Animated pink ASCII butterfly">
     </td>
     <td valign="top" width="55%" style="padding-left: 30 px;">
