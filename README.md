@@ -1,6 +1,6 @@
 
 
 
-   <p align="center">
-     <img src="butterfly1.svg" width="800" alt="Animated pink ASCII butterfly">
+   <p align="left">
+     <img src="butterfly1.svg" width="400" alt="Animated pink ASCII butterfly">
    </p>
