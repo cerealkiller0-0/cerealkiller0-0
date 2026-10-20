@@ -1,7 +1,7 @@
 
 
    <p align="center">
-     <img src="butterfly1.gif" width="400" alt="Welcome">
+     <img src="welcome.gif" width="400" alt="welcome">
    </p>
 
    <p align="left">
