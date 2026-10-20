@@ -27,8 +27,5 @@ I'm a CSE student who loves Space 🪐✨ and Nature 🪻🍃
 </table>
 
 <p align="center">
-  <img src="33b1a933-60ae-4e3a-9ea7-78bd98ba8e0e.gif" width="1200" height="150" style="border-radius: 50 px;" alt="header">
-</p>
-<p align="center">
-  <img src="welcome-peony-light.png" width="400" height="150" style="border-radius: 50 px;" alt="welcome">
+  <img src="e2ad2180-c3db-4b4c-8fe0-93b9a02616bf.gif" width="1200" height="150" style="border-radius: 50 px;" alt="train">
 </p>
