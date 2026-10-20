@@ -1,7 +1,7 @@
 
 
    <p align="center">
-     <img src="ezgif.com-coalesce.gif" width="1200" alt="welcome">
+     <img src="ezgif.com-coalesce.gif" width="1200" height="300" alt="welcome">
    </p>
 
 
