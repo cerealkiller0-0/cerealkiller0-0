@@ -1,8 +1,7 @@
 
-
-   <p align="center">
-     <img src="ezgif.com-coalesce.gif" width="1200" height="200" alt="welcome">
-   </p>
+<div align="center">
+  <img src="ezgif.com-coalesce.gif" width="100%" style="border-radius: 20px;" alt="welcome">
+</div>
 
 
 <table border="0" cellspacing="0" cellpadding="0">
