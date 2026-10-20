@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="eae8c5d7-61d5-4ad6-9ba6-704e2592427f.gif" width="1200" height="150" style="border-radius: 20 px;" alt="welcome">
+  <img src="eae8c5d7-61d5-4ad6-9ba6-704e2592427f.gif" width="1200" height="150" style="border-radius: 50 px;" alt="welcome">
 </div>
 
 
