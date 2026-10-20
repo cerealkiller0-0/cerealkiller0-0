@@ -5,19 +5,21 @@
    </p>
 
 
-
-   <table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="top" width="50%">
-      <img src="butterfly1.svg" width="400" alt="Animated pink ASCII butterfly">
+    <td valign="middle" width="45%">
+      <img src="butterfly1.svg" width="100%" alt="Animated pink ASCII butterfly">
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="55%" style="padding-left: 30px;">
+      
+### Hi, I'm 🌸 *Samia* 🌸
+      
+I'm a CSE student who loves Space 🪐✨ and Nature 🪻🍃      
+<br/>
 
-### Hi, I'm 🌸Samia🌸
-I'm a CSE student who loves Space✨ and Nature🪻🌿
-- 🍁Currently learning about AI
--🌌Interested in Space and Robotics
-- 🕊️Reach me at samiatabassum099@gmail.com
+- 📚**Currently:** Learning about AI
+- ✨ *Interests:* Space & Robotics
+- 🕊️ *Contact:* [samiabassum099@gmail.com](mailto:samiabassum099@gmail.com)
 
     </td>
   </tr>
