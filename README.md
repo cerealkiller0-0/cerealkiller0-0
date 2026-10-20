@@ -27,7 +27,7 @@ I'm a CSE student who loves Space 🪐✨ and Nature 🪻🍃
 </table>
 
 
-<p align="right"><img src="weather-left.svg" width="340" height="400"><a href="https://facebook.com/YOUR-NAME"><img src="btn-facebook.svg" width="115" height="400"></a><a href="https://instagram.com/YOUR-NAME"><img src="btn-instagram.svg" width="115" height="400"></a><a href="https://discord.com/users/YOUR-ID"><img src="btn-discord.svg" width="115" height="400"></a><a href="https://linkedin.com/in/YOUR-NAME"><img src="btn-linkedin.svg" width="115" height="400"></a></p>
+<p align="left"><img src="weather-left.svg" width="340" height="400"><a href="https://facebook.com/YOUR-NAME"><img src="btn-facebook.svg" width="115" height="400"></a><a href="https://instagram.com/YOUR-NAME"><img src="btn-instagram.svg" width="115" height="400"></a><a href="https://discord.com/users/YOUR-ID"><img src="btn-discord.svg" width="115" height="400"></a><a href="https://linkedin.com/in/YOUR-NAME"><img src="btn-linkedin.svg" width="115" height="400"></a></p>
 
 <p align="center">
   <img src="e2ad2180-c3db-4b4c-8fe0-93b9a02616bf.gif" width="1200" height="100" style="border-radius: 50 px;" alt="train">
