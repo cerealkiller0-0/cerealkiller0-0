@@ -27,7 +27,7 @@ I'm a CSE student who loves Space 🪐✨ and Nature 🪻🍃
 </table>
 
 
-
+<p align="center"><img src="assets/weather-left.svg" width="340" height="400"><a href="https://facebook.com/YOUR-NAME"><img src="assets/btn-facebook.svg" width="115" height="400"></a><a href="https://instagram.com/YOUR-NAME"><img src="assets/btn-instagram.svg" width="115" height="400"></a><a href="https://discord.com/users/YOUR-ID"><img src="assets/btn-discord.svg" width="115" height="400"></a><a href="https://linkedin.com/in/YOUR-NAME"><img src="assets/btn-linkedin.svg" width="115" height="400"></a></p>
 
 
 
