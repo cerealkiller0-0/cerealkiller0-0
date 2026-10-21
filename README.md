@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="33b1a933-60ae-4e3a-9ea7-78bd98ba8e0e.gif" width="1200" height="200" style="border-radius: 50 px;" alt="header">
+  <img src="33b1a933-60ae-4e3a-9ea7-78bd98ba8e0e.gif" width="1200" height="300" style="border-radius: 50 px;" alt="header">
 </p>
 
 
