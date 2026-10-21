@@ -28,14 +28,6 @@ I'm a CSE student who loves Space 🪐✨ and Nature 🪻🍃
 
 <p align="center"><img src="assets/weather-left.svg?v=2" width="42.5%"><a href="https://www.facebook.com/samia.tabassum.980689/"><img src="assets/btn-facebook.svg?v=2" width="14.3%"></a><a href="https://www.instagram.com/cereal.killer0_0/"><img src="assets/btn-instagram.svg?v=2" width="14.3%"></a><a href="https://discordapp.com/users/1241019444264833165"><img src="assets/btn-discord.svg?v=2" width="14.3%"></a><a href="https://linkedin.com/in/YOUR-NAME"><img src="assets/btn-linkedin.svg?v=2" width="14.3%"></a></p>
 
-<div align="right">
-<img src="assets/gameboy-star.svg" width="440" alt="Game Boy">
-<details>
-<summary><b>⭐ Press me ⭐</b></summary>
-<br>
-<img src="assets/gameboy-kiss.svg" width="440" alt="Thank you">
-</details>
-</div>
 
 
 
