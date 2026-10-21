@@ -36,6 +36,10 @@
 </p>
 
 
+<h2 align="center">
+  <i>✨ “Every road ends at some station. May ours cross again.” ✨</i>
+</h2>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cerealkiller0-0/cerealkiller0-0/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cerealkiller0-0/cerealkiller0-0/pacman-output/pacman-contribution-graph.svg">
