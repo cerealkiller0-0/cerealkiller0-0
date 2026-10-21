@@ -35,7 +35,7 @@ I'm a CSE student who loves Space 🪐✨ and Nature 🪻🍃
   <img src="e2ad2180-c3db-4b4c-8fe0-93b9a02616bf.gif" width="1200" height="100" style="border-radius: 50 px;" alt="train">
 </p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cerealkiller0-0/cerealkiller0-0/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cerealkiller0-0/cerealkiller0-0/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cerealkiller0-0/cerealkiller0-0/pacman-output/pacman-contribution-graph.svg">
 </picture>
