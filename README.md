@@ -26,7 +26,7 @@ I'm a CSE student who loves Space 🪐✨ and Nature 🪻🍃
   </tr>
 </table>
 
-<p align="center"><img src="assets/weather-left.svg?v=2" width="42.5%"><a href="https://www.facebook.com/samia.tabassum.980689/"><img src="assets/btn-facebook.svg?v=2" width="14.3%"></a><a href="https://www.instagram.com/cereal.killer0_0/"><img src="assets/btn-instagram.svg?v=2" width="14.3%"></a><a href="https://discordapp.com/users/1241019444264833165"><img src="assets/btn-discord.svg?v=2" width="14.3%"></a><a href="https://www.linkedin.com/in/samia-tabassum-17309634a/?isSelfProfile=true"><img src="assets/btn-linkedin.svg?v=2" width="14.3%"></a></p>
+<p align="center"><img src="assets/weather-left.svg?v=2" width="42.5%"><a href="https://www.facebook.com/samia.tabassum.980689/"><img src="assets/btn-facebook.svg?v=2" width="14.3%"></a><a href="https://www.instagram.com/cereal.killer0_0/"><img src="assets/btn-instagram.svg?v=2" width="14.3%"></a><a href="https://discordapp.com/users/1241019444264833165"><img src="assets/btn-discord.svg?v=2" width="14.3%"></a><a href="https://www.linkedin.com/in/samia-tabassum-17309634a/"><img src="assets/btn-linkedin.svg?v=2" width="14.3%"></a></p>
 
 
 
