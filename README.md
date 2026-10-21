@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="profile_banner.gif" alt="Animated meadow scene" width="100%" />
+</div>
+
+
+
+
 
 <p align="center">
   <img src="33b1a933-60ae-4e3a-9ea7-78bd98ba8e0e.gif" width="1200" height="200" style="border-radius: 50 px;" alt="header">
