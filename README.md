@@ -13,16 +13,7 @@
       <img src="butterfly1.svg" width="100%" alt="Animated pink ASCII butterfly">
     </td>
     <td valign="middle" width="45%" height="380">
-      
-### Hi, I'm 🌸 **Samia** 🌸
-      
-I'm a CSE student who loves Space 🪐✨ and Nature 🪻🍃      
-<br/>
-
-- 📚**Currently:** Learning about AI
-- ✨ *Interests:* Space & Robotics
-- 🕊️ *Contact:* [samiabassum099@gmail.com](mailto:samiabassum099@gmail.com)
-
+      <a href="mailto:samiabassum099@gmail.com"><img src="about-me.gif" width="100%" alt="Hi, I'm Samia - CSE student who loves Space and Nature"></a>
     </td>
   </tr>
 </table>
